@@ -1,0 +1,9 @@
+{
+    "id" : "DanesTerrainGenerator",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Dane Claessen",
+    "displayName" : "DanesTerrainGenerator",
+    "description" : "Generates terrain for Terasology",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
